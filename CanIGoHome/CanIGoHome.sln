@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanIGoHome", "CanIGoHome\CanIGoHome.csproj", "{8B3A31B9-365C-441E-AF75-25CA743B3FE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B3A31B9-365C-441E-AF75-25CA743B3FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B3A31B9-365C-441E-AF75-25CA743B3FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B3A31B9-365C-441E-AF75-25CA743B3FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B3A31B9-365C-441E-AF75-25CA743B3FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1476207-5A3D-424A-A2D2-F0B3695B39A9}
+	EndGlobalSection
+EndGlobal
