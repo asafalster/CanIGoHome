@@ -1,9 +1,11 @@
-﻿namespace CanIGoHome
+﻿using System.Collections.Generic;
+
+namespace CanIGoHome
 {
     public interface IWebEngine
     {
-        bool ConfigureEngine();
+        bool ConfigureEngine(IDictionary<string,string> settings);
 
-        string Search(string user, string pw);
+        string Search();
     }
 }
